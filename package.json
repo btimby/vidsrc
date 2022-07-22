@@ -25,7 +25,10 @@
   "homepage": "https://github.com/btimby/vidsrc#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "md5": "^2.3.0",
+    "peertube-client": "^0.2.3",
+    "puppeteer": "^15.4.0"
   },
   "devDependencies": {
     "mocha": "^10.0.0",
